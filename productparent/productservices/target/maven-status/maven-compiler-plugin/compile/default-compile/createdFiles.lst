@@ -1,0 +1,5 @@
+com/saloni/product/bo/ProductBO.class
+com/saloni/product/dao/ProductDAOImpl.class
+com/saloni/product/dao/ProductDAO.class
+com/saloni/product/dto/Product.class
+com/saloni/product/bo/ProductBOImpl.class
